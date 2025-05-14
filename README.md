@@ -1,5 +1,8 @@
 
+
 # 📊 PinkSpire Sales Dashboard
+
+![Dashboard Screenshot](https://github.com/sanya0099/Sales-DashBoard/blob/main/Screenshot%20\(1\).png?raw=true)
 
 ## Overview
 
